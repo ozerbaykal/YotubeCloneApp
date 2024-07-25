@@ -44,10 +44,20 @@ Visuality was achieved more modernly with the tailwind library, and a more effec
 
 <h2>here are the ScreenShoots</h2>
 
-<h3> result page </h3>
-![](./src/images/detailpage.png)
 
-<h3>video detail detail page </h3>
-![](./src/images/resultpage.png)
+<h3> result page </h3>
+
+![](yresultpage.png)
+
+<h3> Detail page </h3>
+
+![](ydetailpage.png)
+
+
+
+
+
+
+
 
 
